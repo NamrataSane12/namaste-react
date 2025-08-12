@@ -1,0 +1,28 @@
+{
+  "name": "learn-react",
+  "version": "1.0.0",
+  "description": "Learning React",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NamrataSane12/namaste-react.git"
+  },
+  "keywords": [],
+  "author": "Namrata Sane",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+
+}
